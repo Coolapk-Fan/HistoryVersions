@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 在git add 前运行 bash list.sh 以更新README.md
 # 下载地址:
 [v2.5.3](https://coolapk-fan.github.io/wiki/history/v2.5.3.apk)
@@ -81,3 +82,6 @@
 [v9.0.3](https://coolapk-fan.github.io/wiki/history/v9.0.3.apk)
 [v9.1.1](https://coolapk-fan.github.io/wiki/history/v9.1.1.apk)
 [v9.3](https://coolapk-fan.github.io/wiki/history/v9.3.apk)
+=======
+# 
+>>>>>>> 8b2c0ec820a7789e9a644eafc3474b9e73453599
